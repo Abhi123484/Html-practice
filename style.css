@@ -1,3 +1,37 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eef2f3;
+    margin: 20px;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+}
+
+h2 {
+    color: #16a085;
+}
+
+ol {
+    background-color: #dff9fb;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+ul {
+    background-color: #f6e58d;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+li {
+    margin: 8px 0;
+    font-size: 18px;
+}
+
+
 body {
     font-family: Arial, sans-serif;
     background-color: #eef2f3;
